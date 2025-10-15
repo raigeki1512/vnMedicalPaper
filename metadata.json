@@ -1,0 +1,5 @@
+{
+  "name": "Research Paper Search",
+  "description": "A web application to search and filter a list of research papers sourced from a Google Sheet. Users can search by title, author, or journal.",
+  "requestFramePermissions": []
+}
